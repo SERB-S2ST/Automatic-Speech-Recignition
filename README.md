@@ -16,7 +16,7 @@ This project implements a **real-time microphone-based Automatic Speech Recognit
 - Fast and lightweight inference  
 - Easily portable across Linux systems
 
-##Training a TDNN Model in Kaldi
+## Training a TDNN Model in Kaldi
 
 Kaldi trains neural network acoustic models through several structured stages. A TDNN
 (Time-Delay Neural Network) is commonly trained using the chain (LF-MMI) framework, which
